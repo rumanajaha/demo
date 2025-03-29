@@ -1,3 +1,3 @@
 # demo
 ---
-Author - rj
+Author - RJ
